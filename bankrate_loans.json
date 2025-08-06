@@ -1,0 +1,58 @@
+[
+  {
+    "loan_product": "30-Year Fixed Rate",
+    "interest_rate": "6.68%",
+    "apr_percent": "6.74%",
+    "loan_term_years": 30,
+    "lender_name": "Bankrate",
+    "updated_date": "2025-08-06"
+  },
+  {
+    "loan_product": "20-Year Fixed Rate",
+    "interest_rate": "6.44%",
+    "apr_percent": "6.53%",
+    "loan_term_years": 20,
+    "lender_name": "Bankrate",
+    "updated_date": "2025-08-06"
+  },
+  {
+    "loan_product": "15-Year Fixed Rate",
+    "interest_rate": "5.90%",
+    "apr_percent": "5.99%",
+    "loan_term_years": 15,
+    "lender_name": "Bankrate",
+    "updated_date": "2025-08-06"
+  },
+  {
+    "loan_product": "10-Year Fixed Rate",
+    "interest_rate": "5.80%",
+    "apr_percent": "5.87%",
+    "loan_term_years": 10,
+    "lender_name": "Bankrate",
+    "updated_date": "2025-08-06"
+  },
+  {
+    "loan_product": "30-Year Fixed Rate FHA",
+    "interest_rate": "6.77%",
+    "apr_percent": "6.83%",
+    "loan_term_years": 30,
+    "lender_name": "Bankrate",
+    "updated_date": "2025-08-06"
+  },
+  {
+    "loan_product": "30-Year Fixed Rate VA",
+    "interest_rate": "6.87%",
+    "apr_percent": "6.92%",
+    "loan_term_years": 30,
+    "lender_name": "Bankrate",
+    "updated_date": "2025-08-06"
+  },
+  {
+    "loan_product": "30-Year Fixed Rate Jumbo",
+    "interest_rate": "6.69%",
+    "apr_percent": "6.73%",
+    "loan_term_years": 30,
+    "lender_name": "Bankrate",
+    "updated_date": "2025-08-06"
+  }
+]

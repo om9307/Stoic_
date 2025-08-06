@@ -1,0 +1,8 @@
+loan_product,interest_rate,apr_percent,loan_term_years,lender_name,updated_date,timestamp
+30-Year Fixed Rate,6.75%,6.81%,30,Bankrate,2025-07-25,2025-07-25
+20-Year Fixed Rate,6.50%,6.59%,20,Bankrate,2025-07-25,2025-07-25
+15-Year Fixed Rate,5.91%,6.01%,15,Bankrate,2025-07-25,2025-07-25
+10-Year Fixed Rate,5.92%,5.99%,10,Bankrate,2025-07-25,2025-07-25
+30-Year Fixed Rate FHA,6.44%,6.50%,30,Bankrate,2025-07-25,2025-07-25
+30-Year Fixed Rate VA,6.50%,6.54%,30,Bankrate,2025-07-25,2025-07-25
+30-Year Fixed Rate Jumbo,6.78%,6.84%,30,Bankrate,2025-07-25,2025-07-25
